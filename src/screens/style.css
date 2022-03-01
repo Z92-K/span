@@ -1,0 +1,28 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.separator {
+    width: 150%;
+}
+
+.controls-wrapper {
+    width: 100%;
+}
+
+.carousel-wrapper {
+    width: 70%;
+    height: 100vh;
+}
+.image {
+    width: 300px;
+    height: 250px;
+    padding: 60px;
+    padding-right: 20px;
+    margin: 0 8px
+}
